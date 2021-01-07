@@ -47,3 +47,7 @@ let elem = document.getElementById('click');
 // firstcontainer.addEventListener('mousedown',function(){
 //     console.log('mouse down when a clicked container');
 // })
+
+
+let Detail = {name : "Maddy", age : 23, City :[ "Pune","Mumbai","Delhi","Punjab"]}
+console.log(Detail.City[3]);
